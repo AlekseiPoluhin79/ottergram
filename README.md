@@ -1,11 +1,11 @@
-### ottergram
+## ottergram
 
 Одностраничный сайт с просмотром фотографий.
 
-##### Stack:
+#### Stack:
 
 *HTML  
-*CSS
+*CSS  
 *JavaScript  
 
 
